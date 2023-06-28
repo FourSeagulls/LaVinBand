@@ -17,6 +17,11 @@ p {
 ul {
     font-size: large;
 }
+.logo a {
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: black;
+}
 
 
 .grid-layout {
